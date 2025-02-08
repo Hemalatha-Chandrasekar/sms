@@ -1,4 +1,4 @@
-package com.sba.sms.uitl;
+package com.sba.sms.util;
 
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;

@@ -1,4 +1,4 @@
 package com.sba.sms.dao;
 
-public class StudetI {
+public interface StudetI {
 }
